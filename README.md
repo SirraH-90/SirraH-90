@@ -9,7 +9,9 @@ I'm Sirah,<br>
 a computer science student  
 who enjoys learning how things work.
 
+
 ` learning  •  coding  •  creating `
+
 
 ✿ building projects, solving problems,  
 &nbsp;&nbsp;&nbsp;and trying to be a little better every day.
@@ -18,7 +20,8 @@ who enjoys learning how things work.
 
 
 ☕ coffee &nbsp;&nbsp; ♫ lofi &nbsp;&nbsp; 🌱 nature &nbsp;&nbsp; 📖 books &nbsp;&nbsp; ☾ night
-───────────────
+──────────────────────────────
+<br>
 ♡ thanks for visiting
 
 </td>
