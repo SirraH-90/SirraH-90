@@ -11,7 +11,6 @@ who enjoys learning how things work.
 <br>
 
 ` learning  •  coding  •  creating `
-
 <br>
 
 ✿ building projects, solving problems,  
