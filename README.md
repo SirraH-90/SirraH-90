@@ -9,9 +9,9 @@ I'm Sirah,
 
 a computer science student  
 who enjoys learning how things work.
-<span style="color:#F3A6C8;">
+
 ` learning  •  coding  •  creating `
-</span>
+
 ✿ building projects, solving problems,  
 &nbsp;&nbsp;&nbsp;and trying to be a little better every day.
 
