@@ -21,7 +21,7 @@ who enjoys learning how things work.
 <br>
 
 ☕ coffee &nbsp;&nbsp; ♫ lofi &nbsp;&nbsp; 🌱 nature &nbsp;&nbsp; 📖 books &nbsp;&nbsp; ☾ night
-──────────────────────────────────
+────────────────────────────────
 <br>
 ♡ thanks for visiting ♡ 
 
