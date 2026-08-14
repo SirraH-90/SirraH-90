@@ -7,28 +7,17 @@
 <br>
 
 I'm Sirah,
-
 a computer science student  
 who enjoys learning how things work.
 
-<br><br>
-
 `learning • coding • creating`
-
-<br><br>
 
 ✿ building projects, solving problems,  
 &nbsp;&nbsp;&nbsp;and trying to be a little better every day.
 
-<br><br>
-
 ✿ currently learning something new...
 
-<br><br>
-
 ☕ coffee &nbsp;&nbsp; ♫ lofi &nbsp;&nbsp; 🌱 nature &nbsp;&nbsp; 📖 books &nbsp;&nbsp; ☾ night
-
-<br><br>
 
 ───────────────
 
