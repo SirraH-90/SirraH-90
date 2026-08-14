@@ -1,12 +1,10 @@
-<div align="center">
+<table>
+<tr>
+<td width="60%" valign="top">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=40&duration=4000&pause=700&color=F3A6C8&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=90&lines=Hello%2C+hello!+%E2%99%A1" />
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=40&duration=4000&pause=700&color=F3A6C8&center=false&vCenter=true&multiline=true&repeat=false&width=700&height=100&lines=Hello%2C+hello!+%E2%99%A1" alt="Hello, hello!" />
 
 <br>
-
-<img src="./rabbit.gif" width="42%" align="right">
 
 I'm Sirah,
 
@@ -30,8 +28,20 @@ who enjoys learning how things work.
 
 ☕ coffee &nbsp;&nbsp; ♫ lofi &nbsp;&nbsp; 🌱 nature &nbsp;&nbsp; 📖 books &nbsp;&nbsp; ☾ night
 
-<br><br><br>
+<br><br>
+
+───────────────
+
+<br>
 
 ♡ thanks for visiting
 
-<br clear="right">
+</td>
+
+<td width="40%" align="center" valign="middle">
+
+<img src="./rabbit.gif" width="480" alt="rabbit" />
+
+</td>
+</tr>
+</table>
